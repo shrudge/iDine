@@ -15,6 +15,7 @@
 		CB5411022BC3ABCA0041E9A0 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5411002BC3ABCA0041E9A0 /* Order.swift */; };
 		CB5411032BC3ABCA0041E9A0 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5411012BC3ABCA0041E9A0 /* Menu.swift */; };
 		CB5411052BC3ABE20041E9A0 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = CB5411042BC3ABE20041E9A0 /* menu.json */; };
+		CB5411072BC3C0070041E9A0 /* itemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5411062BC3C0070041E9A0 /* itemRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		CB5411002BC3ABCA0041E9A0 /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		CB5411012BC3ABCA0041E9A0 /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
 		CB5411042BC3ABE20041E9A0 /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
+		CB5411062BC3C0070041E9A0 /* itemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = itemRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				CB5410F02BC3AA850041E9A0 /* iDineApp.swift */,
 				CB5410F22BC3AA850041E9A0 /* ContentView.swift */,
+				CB5411062BC3C0070041E9A0 /* itemRow.swift */,
 				CB5410FE2BC3AB2C0041E9A0 /* Helper.swift */,
 				CB5411012BC3ABCA0041E9A0 /* Menu.swift */,
 				CB5411002BC3ABCA0041E9A0 /* Order.swift */,
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB5410F32BC3AA850041E9A0 /* ContentView.swift in Sources */,
+				CB5411072BC3C0070041E9A0 /* itemRow.swift in Sources */,
 				CB5410F12BC3AA850041E9A0 /* iDineApp.swift in Sources */,
 				CB5411022BC3ABCA0041E9A0 /* Order.swift in Sources */,
 				CB5410FF2BC3AB2C0041E9A0 /* Helper.swift in Sources */,

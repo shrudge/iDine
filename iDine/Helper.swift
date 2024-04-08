@@ -1,9 +1,8 @@
 //
-//  Helper.swift
-//  A small collection of quick helpers to avoid repeating the same old code.
+//  ContentView.swift
+//  iDine
 //
-//  Created by Paul Hudson on 23/06/2019.
-//  Copyright © 2019 Hacking with Swift. All rights reserved.
+//  Created by Meet Balani on 08/04/24.
 //
 
 import UIKit
